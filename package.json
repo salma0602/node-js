@@ -1,0 +1,12 @@
+{
+  "name": "simdjson_nodejs",
+  "version": "1.0.0",
+  "description": "Node.js bindings for simdjson",
+  "main": "new_node.js",
+  "scripts": {
+    "start": "node new_node.js"
+  },
+  "dependencies": {
+    "simdjson": "^0.9.2"
+  }
+}
